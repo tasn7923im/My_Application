@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Trip Guide</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="Login">Login</string>
+    <string name="Register">Register</string>
+    <string name="Email">Email</string>
+    <string name="user_description">user_description</string>
+    <string name="title">Trip Guide</string>
+    <string name="welcome_message">Wellcome to your    Trip Guide in Muscat</string>
+    <string name="welcome_message2">which provides for visitors to the areas of Muscat Governorate,rocommendations for attractions,restaurants,local accommodations,various entertainment venues and others.</string>
+    <string name="NEXT">NEXT</string>
+    <string name="welcome">Welcome to your Trip Guide in Muscat</string>
+    <string name="purple">purple</string>
+    <string name="user">user</string>
+    <string name="trip_guide_title"> Trip Guide</string>
+    <string name="Muttrah_button">Muttrah</string>
+    <string name="Bowshar_button">Bowshar</string>
+    <string name="Quriyat_button">Quriyat</string>
+    <string name="Muscat_button">Muscat</string>
+    <string name="AlAmerat_button">AlAmerat</string>
+    <string name="AlSeeb_button">AlSeeb</string>
+    <string name="destination2">Choose you destination</string>
+    <string name="destination">destination</string>puo
+    <string name="puo">puo</string>
+    <string name="title2">   Trip Guide    </string>
+    <string name="location">location</string>
+    <string name="place1">Kalboh Park</string>
+    <string name="displace"> Kalboh Park is located at the end of the Muttrah Corniche, and it is a good place to stop and take a picnic between Muttrah and Old Muscat. The park is usually crowded on weekends and evenings. It is a very quiet park surrounded by picturesque mountains. It has a small beach ideal for swimming and diving, and a small play area for children. In addition to a group of wonderful cafes, this park is equipped with all facilities, which makes it an ideal destination to visit with children and families.
+
+
+
+
+
+    </string>
+    <string name="kalboh_bark">Kalboh Park</string>
+    <string name="image">image</string>
+    <string name="PREVIOUS">PREVIOUS</string>
+    <string name="alalam">Al-Alam Palace is one of the most important archaeological sites and one of the most visited and attractive tourist attractions in Oman, as fans of the authentic Arab architectural heritage flock to it from all over the world.
+        Al-Alam Palace enjoys a unique style and a privileged location, as it mediates the most important Omani government institutions with luxurious buildings. It is also surrounded by other equally important tourist attractions, in addition to the picturesque gardens, and the famous Muttrah Port.
+    </string>
+    <string name="alalam2">Al-Alam Palace</string>
+    <string name="image_alalam">image_alalam</string>
+    <string name="qurum">Qurum Natural Park</string>
+    <string name="qurum1">One of the most famous and beautiful places of entertainment in Muscat is that it is a wonderful natural oasis in which there are many elements of relaxation, tranquility, hiking and vitality, as it is adjacent to the Crimean Heights with its variations between plateaus, low valleys, waterfalls and the lake overlooking the sea directly, which is inhabited by more than 200 different species of beautiful birds.
+
+In addition to the park’s coastline, which is rich in various types of marine creatures, all of which give rise to wonderful tourist opportunities to relax and enjoy the stunning scenery, or hiking, walking and running in the paths prepared for that, or fun in the cabaret filled with many games for adults and children.</string>
+    <string name="FunZone">Fun Zone</string>
+    <string name="FunZone1">The most famous entertainment places for children in Muscat, and this does not negate that it is an integrated family entertainment center, as it includes an integrated center for enjoying ice skating, hockey fields, bowling alleys and billiard halls, multiple areas for video games, gym and electronic games, areas for children’s kinetic and electric games, a cinema hall 7D technology, restaurants and cafes.
+
+        The entertainment center operates daily from 10:00 am to 10:00 pm.</string>
+    <string name="AlKhoud">Al-Khoud village</string>
+    <string name="khoud">It is one of the most famous tourist areas in the state of Seeb due to the diversity of its tourist attractions. It is located above the largest valleys in Oman, which distinguishes it from the many streams of water extending along the valley, which also has many ponds in the middle, and all of this is surrounded by dense and intertwined trees with a wonderful view.
+
+In addition to the diversity of archaeological monuments in the village, where the hills surrounding it are filled with towers and military castles, such as Al-Khoud and Al-Faras castles dating back to 1933 AD, Al-Jafnain Towers, Al-Rusail Towers, Al-Khars Towers, Al-Sulayel Towers, and Wadi Al-Haya Towers.</string>
+    <string name="seeb">Seeb Beach</string>
+    <string name="seeb1">It is the state’s most famous beach, overlooking the Gulf of Oman and one of the most prominent tourist destinations in it, with its soft white sand and clear turquoise water, which made it a destination for lovers of water sports of all kinds, in addition to the charming and enjoyable views of the palm trees of the picturesque state of Seeb, as well as urbanization and modernity in its many forms. And the spread of high-end services, restaurants, hotels and resorts on its banks.</string>
+    <string name="place2">Mutt rah Castle</string>
+    <string name="one">The experience of tourism in Muscat will not have a different flavor except when you decide to go to Muttrah Castle, Muscat, as it is one of the most famous landmarks in Muscat and one of the architectural masterpieces that translates ancient architectural skills and tells us a long history lived by the ancestors, in addition to that these castles that were established in 2018 are located on a plateau High, and this is what makes her visit a must.</string>
+    <string name="two">Visiting the clothing stores in this market is one of the most enjoyable activities, as each store is distinguished by its attractive exhibits, and what will guarantee you a distinguished shopping trip between these stores, as they vary to include traditional clothing stores that are distinguished by their beautiful embroidery and attractive colors. The tour of the Muttrah Souq shops Muscat is considered a unique experience for market goers who are amateurs of handicrafts, as it offers them a unique opportunity to see a wonderful collection of handicrafts, contemplate their elaborate details, and perhaps buy some of them such as copper and pottery.</string>
+    <string name="souq">Souq Muttrah</string>
+    <string name="alamert"> Al-Amerat Park </string>
+    <string name="alamert1">Many activities are offered to you by visiting this park, but what we recommend to start with is to start your journey in this park with a tour through which you explore all parts of the park and enjoy your eyes with the beautiful scenery around you, such as those lush trees and vast green spaces
+You will also notice during the tour that there are many places designated for sitting, which you can resort to at any time you like. Since the strongest attraction factor that this park enjoys is its distinctive views of Al-Amerat, you will definitely take this opportunity and spend a special time seeing it.</string>
+    <string name="Restaurant"> Rayyan Turkish Restaurant </string>
+    <string name="Restaurant1"> Al Rayyan Turkish Restaurant is located in Al Amerat in Muscat, Sultanate of Oman. The restaurant serves dishes from the Turkish cuisine and delivers orders to the Northern Heritage District and Amerat District 3. You can get the restaurant\'s delivery number by calling them at the following number:968 2424 4444</string>
+    <string name="lake"> Qurayyat Lake Park </string>
+    <string name="lake1"> It provides a peaceful atmosphere and is ideal for relaxing with friends and family after a long day of sightseeing. It was opened in 2002 and is home to an artificial lake that gives a charming character to the area. This attractive park is located along the road leading to the central market of the city, and it also features Private recreational areas where one can enjoy light exercise and outdoor sports activities in a relaxed atmosphere.</string>
+    <string name="wadi"> Wadi Dayqah Dam </string>
+    <string name="wadi1"> Wadi Dayqah Dam in the Wilayat of Qurayyat is one of the most important active tourist destinations in all seasons of the year, and the crowd of people increases there during holidays and rainy season. </string>
+
+</resources>
+
